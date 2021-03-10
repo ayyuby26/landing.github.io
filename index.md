@@ -1,5 +1,7 @@
 <html>
-<head></head>
+<head>
+  <title>HALOAMMAs</title>
+  </head>
 <body>
 <span>Hello</span>
 </body>
